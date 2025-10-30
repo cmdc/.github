@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://via.placeholder.com/800x4/74FEFF/74FEFF" alt="divider"/>
+![divider](data:image/svg+xml,%3Csvg%20width%3D%22800%22%20height%3D%224%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22800%22%20height%3D%224%22%20fill%3D%22%2374FEFF%22%2F%3E%3C%2Fsvg%3E)
 
 ### 👋 Chi Siamo
 
@@ -192,7 +192,7 @@ Hai domande, proposte o vuoi semplicemente dire ciao?
 
 ---
 
-<img src="https://via.placeholder.com/800x4/74FEFF/74FEFF" alt="divider"/>
+![divider](data:image/svg+xml,%3Csvg%20width%3D%22800%22%20height%3D%224%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22800%22%20height%3D%224%22%20fill%3D%22%2374FEFF%22%2F%3E%3C%2Fsvg%3E)
 
 ### ⭐ Seguici per rimanere aggiornato sui nostri progetti
 
