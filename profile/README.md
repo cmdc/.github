@@ -43,14 +43,124 @@ Lavoriamo con le tecnologie più moderne per garantire soluzioni performanti e s
 
 </div>
 
+## 🎯 Le Nostre Attività
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Servizi
+
+- **Sviluppo Software Custom**
+  - Applicazioni web e mobile
+  - Soluzioni enterprise
+  - API e microservizi
+
+- **Consulenza Tecnologica**
+  - Architettura software
+  - Code review e optimization
+  - DevOps e CI/CD
+
+- **Digital Transformation**
+  - Cloud migration
+  - Modernizzazione legacy systems
+  - Automation & AI integration
+
+</td>
+<td width="50%">
+
+### 📈 Focus Areas
+
+```
+Web Development      ████████████░░░░░░░░  60%
+Mobile Solutions     ████████░░░░░░░░░░░░  40%
+Cloud & DevOps       ██████████░░░░░░░░░░  50%
+AI & Automation      ██████░░░░░░░░░░░░░░  30%
+Data Analytics       ████████░░░░░░░░░░░░  40%
+```
+
+### 🌟 Competenze Chiave
+![](https://img.shields.io/badge/Full--Stack-Development-blue)
+![](https://img.shields.io/badge/Cloud-Architecture-orange)
+![](https://img.shields.io/badge/DevOps-CI%2FCD-green)
+![](https://img.shields.io/badge/API-Design-red)
+
+</td>
+</tr>
+</table>
+
+## 🗺️ Roadmap 2025
+
+<div align="center">
+
+```mermaid
+gantt
+    title Piano di Sviluppo CMDC
+    dateFormat  YYYY-MM
+    section Q1 2025
+    Setup Infrastructure      :2025-01, 2025-03
+    Open Source Projects      :2025-02, 2025-04
+    section Q2 2025
+    Community Building        :2025-04, 2025-06
+    Mobile Development Tools  :2025-05, 2025-07
+    section Q3-Q4 2025
+    AI Integration Platform   :2025-07, 2025-10
+    International Expansion   :2025-08, 2025-12
+```
+
+</div>
+
 ## 📊 I Nostri Progetti
 
-Stiamo lavorando su progetti entusiasmanti che saranno presto disponibili! Stay tuned per:
+### 🚀 Progetti Attivi
 
-- 🔧 **Strumenti di sviluppo** - Tool per migliorare la produttività degli sviluppatori
-- 🌐 **Web Solutions** - Applicazioni web moderne e responsive
-- 📱 **Mobile Apps** - Soluzioni mobile cross-platform
-- 🤖 **Automation** - Script e tool per automatizzare workflow
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60px"/>
+<br><strong>Web Framework</strong>
+<br><sub>Framework modulare per applicazioni web</sub>
+<br>🟢 In sviluppo
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="60px"/>
+<br><strong>DevOps Toolkit</strong>
+<br><sub>Tool per automatizzare deploy e monitoring</sub>
+<br>🟡 Planning
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60px"/>
+<br><strong>Data Pipeline</strong>
+<br><sub>Sistema di processing dati real-time</sub>
+<br>🟡 Planning
+</td>
+</tr>
+</table>
+
+### 💡 Prossimi Progetti
+
+- 🔧 **Developer Tools** - CLI e plugin per aumentare la produttività
+- 🌐 **SaaS Platform** - Piattaforma cloud-native multi-tenant
+- 📱 **Mobile SDK** - Librerie per sviluppo mobile cross-platform
+- 🤖 **AI Assistant** - Chatbot intelligente per customer support
+- 📊 **Analytics Dashboard** - Sistema di monitoring e reporting
+
+## 📈 Statistiche & Metriche
+
+<div align="center">
+
+| 🎯 Progetti | 💻 Tecnologie | 🌍 Clienti | ⭐ GitHub Stars |
+|:---:|:---:|:---:|:---:|
+| **15+** | **25+** | **10+** | **Growing** |
+
+### 📅 Attività Recenti
+
+![](https://img.shields.io/badge/Commits-Active-green?style=flat-square)
+![](https://img.shields.io/badge/PRs-Reviewed-blue?style=flat-square)
+![](https://img.shields.io/badge/Issues-Resolved-yellow?style=flat-square)
+![](https://img.shields.io/badge/Docs-Updated-orange?style=flat-square)
+
+</div>
 
 ## 🤝 Contribuisci
 
