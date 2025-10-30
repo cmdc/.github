@@ -1,15 +1,19 @@
 <div align="center">
 
-# 🚀 CMDC
+<img src="https://www.cmdc.it/cmdc-motion-opt.svg" alt="CMDC Logo" width="200"/>
+
+# cmdc
 
 ### Innovation & Technology Solutions
 
-[![Website](https://img.shields.io/badge/Website-cmdc.it-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://cmdc.it)
-[![Email](https://img.shields.io/badge/Email-cmdc.business@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmdc.business@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@cmdc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmdc)
-[![Location](https://img.shields.io/badge/Location-Italy-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![Website](https://img.shields.io/badge/Website-cmdc.it-74FEFF?style=for-the-badge&logo=google-chrome&logoColor=black)](http://cmdc.it)
+[![Email](https://img.shields.io/badge/Email-cmdc.business@gmail.com-74FEFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cmdc.business@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@cmdc-74FEFF?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/cmdc)
+[![Location](https://img.shields.io/badge/Location-Italy-74FEFF?style=for-the-badge&logo=google-maps&logoColor=black)](https://maps.google.com)
 
 ---
+
+<img src="https://via.placeholder.com/800x4/74FEFF/74FEFF" alt="divider"/>
 
 ### 👋 Chi Siamo
 
@@ -80,10 +84,11 @@ Data Analytics       ████████░░░░░░░░░░░�
 ```
 
 ### 🌟 Competenze Chiave
-![](https://img.shields.io/badge/Full--Stack-Development-blue)
-![](https://img.shields.io/badge/Cloud-Architecture-orange)
-![](https://img.shields.io/badge/DevOps-CI%2FCD-green)
-![](https://img.shields.io/badge/API-Design-red)
+
+![](https://img.shields.io/badge/Full--Stack-Development-74FEFF?style=flat&logoColor=black)
+![](https://img.shields.io/badge/Cloud-Architecture-74FEFF?style=flat&logoColor=black)
+![](https://img.shields.io/badge/DevOps-CI%2FCD-74FEFF?style=flat&logoColor=black)
+![](https://img.shields.io/badge/API-Design-74FEFF?style=flat&logoColor=black)
 
 </td>
 </tr>
@@ -155,10 +160,10 @@ gantt
 
 ### 📅 Attività Recenti
 
-![](https://img.shields.io/badge/Commits-Active-green?style=flat-square)
-![](https://img.shields.io/badge/PRs-Reviewed-blue?style=flat-square)
-![](https://img.shields.io/badge/Issues-Resolved-yellow?style=flat-square)
-![](https://img.shields.io/badge/Docs-Updated-orange?style=flat-square)
+![](https://img.shields.io/badge/Commits-Active-74FEFF?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/PRs-Reviewed-74FEFF?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/Issues-Resolved-74FEFF?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/Docs-Updated-74FEFF?style=flat-square&logoColor=black)
 
 </div>
 
@@ -187,8 +192,14 @@ Hai domande, proposte o vuoi semplicemente dire ciao?
 
 ---
 
-### ⭐ Seguici per rimanere aggiornato sui nostri progetti!
+<img src="https://via.placeholder.com/800x4/74FEFF/74FEFF" alt="divider"/>
+
+### ⭐ Seguici per rimanere aggiornato sui nostri progetti
 
 <sub>Made with ❤️ in Italy 🇮🇹</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Brand_Color-%2374FEFF-74FEFF?style=for-the-badge" alt="Brand Color"/>
 
 </div>
